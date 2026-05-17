@@ -5,7 +5,7 @@
 
 1.フォルダに保存。
 
-node_modules/
+gpu-mon/
   - monitor.js
   - package.json
   - package-lock.json
