@@ -2,7 +2,7 @@
 
 ## インストール
 
-フォルダに保存。
+1.フォルダに保存。
 
 node_modules/
   - monitor.js
@@ -10,10 +10,10 @@ node_modules/
   - package-lock.json
   - CLAUDE.md
 
-npm ci
+2.npm ci
 または
 npm install
 
 ## 使い方
-node monitor.js
+node monitor.js<br>
 終了: q
