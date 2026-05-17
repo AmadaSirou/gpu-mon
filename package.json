@@ -1,0 +1,17 @@
+{
+  "name": "code25gpumon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0"
+  }
+}
